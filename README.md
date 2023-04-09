@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Rajput</h1>
 <h3 align="center">I do Development and Blogging on Hashnode.</h3>
 
-I'm **Rohit Rajput** from India, and I do **Development** and blogging content on **Hashnode**.I really enjoy learning languages and DevOps tools like **`linux`**,**`Git-GitHub`**,**`Shell-Scripting`**,**`Python`**,**`YAML`**,**`Docker`** as well as work in **`Kubernetes`**.I also enjoy doing **`Blender3D`** and **`VideoEditing`** in general.
+I'm **Rohit Rajput** from India, and I do **Development** and blogging content on **Hashnode**.I really enjoy learning languages and DevOps tools like **`linux`**,**`Git-GitHub`**,**`Shell-Scripting`**,**`Python`**,**`YAML`**,**`Docker`**,**`Jenkins`** as well as work in **`Kubernetes`**.I also enjoy doing **`Blender3D`** and **`VideoEditing`** in general.
 
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/89233231dc8ba3dc5af6b979e9e3985ee8b9b70622d2ce686fc46c4a6706ea20/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313237322f312a5a53566d57476363317765454e6230536861775778772e676966">
