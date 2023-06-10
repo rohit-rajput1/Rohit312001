@@ -8,9 +8,9 @@ I'm **Rohit Rajput** from India, and I do **Development** and Technical blogging
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit312001&label=Profile%20views&color=0e75b6&style=flat" alt="rohit312001" /> </p>
 
-- 🔭 I’m currently working on **deployment of website using Docker.**
+- 🔭 I’m currently working on **Kubernetes**
 
-- 🌱 I’m currently learning **" Kubernetes "**
+- 🌱 I’m currently learning **" Terraform "**
 
 - 👯 I’m looking to collaborate on **DevOps related projects to resolve for faster delivery of software.**
 
