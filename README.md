@@ -27,7 +27,7 @@ I'm **Rohit Rajput** from India, and I do **Development** and Technical blogging
 <a href="https://twitter.com/rohitrajput31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitrajput31" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-rajput-68779a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-rajput-68779a202" height="30" width="40" /></a>
 <a href="https://instagram.com/https://instagram.com/rohitrajput_36?igshid=zddkntzintm=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/rohitrajput_36?igshid=zddkntzintm=" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@rohit8329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@rohit8329" height="30" width="40" /></a>
+<a href="https://hashnode.com/https://hashnode.com/@rohit8329" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="https://hashnode.com/@rohit8329" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
